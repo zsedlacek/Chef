@@ -1,0 +1,12 @@
+C:\Users\zsedlacek\Development\Chef\Chef\bin\Debug\net6.0\Chef.deps.json
+C:\Users\zsedlacek\Development\Chef\Chef\bin\Debug\net6.0\Chef.dll
+C:\Users\zsedlacek\Development\Chef\Chef\bin\Debug\net6.0\Chef.pdb
+C:\Users\zsedlacek\Development\Chef\Chef\obj\Debug\net6.0\Chef.csproj.AssemblyReference.cache
+C:\Users\zsedlacek\Development\Chef\Chef\obj\Debug\net6.0\Chef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsedlacek\Development\Chef\Chef\obj\Debug\net6.0\Chef.AssemblyInfoInputs.cache
+C:\Users\zsedlacek\Development\Chef\Chef\obj\Debug\net6.0\Chef.AssemblyInfo.cs
+C:\Users\zsedlacek\Development\Chef\Chef\obj\Debug\net6.0\Chef.csproj.CoreCompileInputs.cache
+C:\Users\zsedlacek\Development\Chef\Chef\obj\Debug\net6.0\Chef.dll
+C:\Users\zsedlacek\Development\Chef\Chef\obj\Debug\net6.0\refint\Chef.dll
+C:\Users\zsedlacek\Development\Chef\Chef\obj\Debug\net6.0\Chef.pdb
+C:\Users\zsedlacek\Development\Chef\Chef\obj\Debug\net6.0\ref\Chef.dll
